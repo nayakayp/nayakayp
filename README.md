@@ -1,8 +1,22 @@
-### Hi Iam Nayaka 👋
+## Hi I am Nayaka 👋
 
-- 🔭 I’m currently working on Freelace Web Developer Project
+- 🔭 I’m currently freelancing on Web Development Projects
 - 🌱 I’m currently learning ReactJS
-- 📫 How to reach me: nayakayp@gmail.com | Twitter & IG: @nayakayp
+- 📫 How to reach me: nayakayp@gmail.com | https://nayakayp.com | Twitter & IG: @nayakayp
+
+## Technology Skills
+### Web Development
+- **Frontend**: HTML/CSS, Javascript, ReactJS, Svelte
+- **Backend**: NodeJS, ExpressJS, MongoDB, AdonisJS, MySQL
+- **Design**: Figma, Affinity Designer
+- **Cloud**: Digital Ocean, Heroku, Google Cloud Platform
+- **CMS**: Wordpress
+
+### Hardware Development
+- **Languages**: C/C++, C#, Python
+- **Tools**: Arduino, Raspberry, STM32
+- **Prototyping**: Eagle PCB, 3D AutoDesk Inventor
+
 
 <!--
 **nayakayp/nayakayp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
