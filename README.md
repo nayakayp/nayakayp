@@ -1,7 +1,6 @@
 ## Hi I am Nayaka 👋
 
 - 🔭 I’m currently freelancing on Web Development Projects
-- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: nayakayp@gmail.com | https://nayakayp.com | Twitter & IG: @nayakayp
 
 ## Technology Skills
