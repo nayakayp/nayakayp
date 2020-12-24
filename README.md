@@ -7,7 +7,7 @@
 ### Web Development
 - **Frontend**: HTML/CSS, Javascript, ReactJS, Svelte, Bootstrap
 - **Backend**: NodeJS, ExpressJS, MongoDB, AdonisJS, MySQL
-- **Design**: Figma, Affinity Designer
+- **Prototyping**: Figma, Affinity Designer
 - **Cloud**: Digital Ocean, Heroku, Google Cloud Platform
 - **CMS**: Wordpress
 
