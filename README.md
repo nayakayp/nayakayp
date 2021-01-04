@@ -5,7 +5,7 @@
 
 ## Technology Skills
 ### Web Development
-- **Frontend**: HTML/CSS, Javascript, ReactJS, Svelte, Bootstrap
+- **Frontend**: HTML/CSS, Javascript, ReactJS, Bootstrap
 - **Backend**: NodeJS, ExpressJS, MongoDB, AdonisJS, MySQL
 - **Prototyping**: Figma, Affinity Designer
 - **Cloud**: Digital Ocean, Heroku, Google Cloud Platform
